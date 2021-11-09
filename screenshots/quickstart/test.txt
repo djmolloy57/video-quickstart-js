@@ -7,7 +7,10 @@ Select Bandwidth Constraints:
 Max Audio Bitrate: 16000
 Max Video Bitrate: 64000
 RM3a6328e3f6d089fc4591252734736d81
-
+Select Bandwidth Constraints:
+Max Audio 32000
+Max Video 128000
+Room Sid: RM3a6328e3f6d089fc4591252734736d81
 
 Network Quality:
 Network quality: 0
