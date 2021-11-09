@@ -1,1 +1,10 @@
+Network Quality:
+Network quality: 0
+Room SID: RMb1a46406fb7c34493a06ef93a44033b5
+
+Network quality: 2
+Room SID: RM8a4f3d24bfefd46d257b96e123e3bca6
+
+Network quality: 3
+Room SID: RM0cf839f4db85ff042f3845b9d7cf8f88
 
