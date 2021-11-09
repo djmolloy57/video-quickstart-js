@@ -20,7 +20,9 @@ Codec Preferences:
 Preferred Audio Codec: No preference 
 Preferred Video Codec: No preference
 Room SID:  RM2eb55d71a4119366a47eee63d421b92d
-
+Preferred Audio Codec: ISAC
+Preferred Video Codec: H264
+Room SID: RM2eb55d71a4119366a47eee63d421b92d
 Network Quality:
 Network quality: 0
 Room SID: RMb1a46406fb7c34493a06ef93a44033b5
