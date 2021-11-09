@@ -70,3 +70,8 @@ changed to Reconnecting and then to  state Disconnected. - see screenshots
 Plugged back in my cat cable - checked in a different browser tab confirmed it was connecting to internet.
 I went back in Example Reconnection - It never returned to Connect state.
 I had to refresh the page and create a new room : RM21d7faf876720ec4fe8194dad48779fb
+
+Local Media Controls:
+See Screenshots
+Room Sid: RM7b0ce417e1d51ccfec4149b72f7e8813
+
