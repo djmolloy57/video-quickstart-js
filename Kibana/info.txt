@@ -11,4 +11,14 @@ Fields for codecs =  payload.video_codecs
 Whether the participant was "recorded on connect" for all of the participants in one of your group rooms - field: payload.record_participants_on_connect  (true/false)
 Please see screenshot kibana_query1
 
-
+Query2:
+Change Index to video-insights* create a "Discover URL" that displays all device, manufacture, OS, browser version, SDK version information for the participants. 
+Room SID: RM3cf57a4f6b93c73b6f88f1a7f003f3a3
+Created on: 2021-11-08 07:09:02.713
+Ended on: 2021-11-08 08:01:52.341
+OS: field:  publisher_metadata.platform_name  
+Browser: field:  publisher_metadata.browser_name 
+browser version; field: publisher_metadata.browser_version  
+Can see: field: publisher_metadata_user_agent  
+(SDK version information for the participants:  field: publisher_metadata.sdk_version
+Please see screenshot Kibana_query2
