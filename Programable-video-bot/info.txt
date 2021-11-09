@@ -6,3 +6,6 @@ Please see the screenshot for this room sid room summary
 Participant report
 Room RM3cf57a4f6b93c73b6f88f1a7f003f3a3 contains participant PA12f4a1aeaebd157c6f332c1f5efdb03b 
 Please see the screenshot participant report for this particular participant
+
+Track info for track MT7caf5ac85b5790e4e8ffe27b8fe27284
+please see the attached screenshot
