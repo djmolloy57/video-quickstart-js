@@ -44,5 +44,8 @@ Room SID: RM8a4f3d24bfefd46d257b96e123e3bca6
 Network quality: 3
 Room SID: RM0cf839f4db85ff042f3845b9d7cf8f88
 
+Remote Participant Reconnection States:
+Room SID: RMdad93f576cb51181229ef181aa7142fd
+
 Local Media Controls:
 Room SID: RM3edda1c588d4f84dc616facefbb6674f
