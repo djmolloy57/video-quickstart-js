@@ -1,1 +1,9 @@
 
+In Quantico I ran the following sql query to get the compositions I ran today on my account
+
+SELECT * FROM `qtco-customer-support.prod.app_api_access_last_1_day`
+where account_sid = "AC8c27b959ff60124e8fa5f2ad6159f747"
+and uri = '/Compositions'
+order by timestamp desc LIMIT 100
+
+Please see the screenshot results
