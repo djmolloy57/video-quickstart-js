@@ -30,6 +30,10 @@ Preferred Audio Codec: PCMA
 Preferred Video Codec: VP9
 Room SID: RM2eb55d71a4119366a47eee63d421b92d
 
+Dominant Speaker:
+Dominant Speaker: Bob
+Room SID: RMe2d031c54287aae8e07202b8f6a7691d
+
 Network Quality:
 Network quality: 0
 Room SID: RMb1a46406fb7c34493a06ef93a44033b5
