@@ -22,3 +22,15 @@ browser version; field: publisher_metadata.browser_version
 Can see: field: publisher_metadata_user_agent  
 (SDK version information for the participants:  field: publisher_metadata.sdk_version
 Please see screenshot kibana_query2 and kibana_query2_mac
+
+Query4:
+Change Index to video-voice-signaling* create a "Discover URL" that displays Participant SID, Call SID, Room SID, Identity, Room Name for the PSTN participant in one room.
+Room SID: RM5fb9baa8960d2edeaefc6693e9e2dcc6
+Created on : 2021-11-08 10:59:08.660
+Ended on: 2021-11-08 11:16:20.988
+Participant SID  - Fields:  payload.participant_sid
+Call SID - Fields:  payload.call_sid
+Room SID - Fields: payload.room_sid
+Identity - Fields:   payload.identity
+Room Name for the PSTN participant in one room:  name
+Please see attached screenshot - kibana_query4
