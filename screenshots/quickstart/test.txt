@@ -16,6 +16,10 @@ Max Audio Bitrate: 64000
 Max Video Bitrate: 256000
 Room Sid: RM3a6328e3f6d089fc4591252734736d81
 
+Codec Preferences:
+Preferred Audio Codec: No preference 
+Preferred Video Codec: No preference
+Room SID:  RM2eb55d71a4119366a47eee63d421b92d
 
 Network Quality:
 Network quality: 0
