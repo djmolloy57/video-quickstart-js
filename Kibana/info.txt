@@ -1,1 +1,14 @@
+Query1: 
+Change Index to sdki-rooms* create a "Discover URL" that displays media region, codecs, vms server sid, whether the participant was "recorded on connect" for all of the participants in one of your group rooms. 
+Room SID: RM3cf57a4f6b93c73b6f88f1a7f003f3a3
+Room Created - 2021-11-08T07:08:58.880Z
+Ended On: 2021-11-08 08:01:52.341
+Changed discover index to ‘sdki-rooms*
+displays media region, codecs, vms server sid, whether the participant was "recorded on connect" for all of the participants in one of your group rooms. 
+Fields for vms server sid = field:  payload.vms_sid
+Fileds for media region = field: payload.media_region
+Fields for codecs =  payload.video_codecs
+Whether the participant was "recorded on connect" for all of the participants in one of your group rooms - field: payload.record_participants_on_connect  (true/false)
+Please see screenshot kibana_query1
+
 
