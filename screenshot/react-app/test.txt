@@ -11,6 +11,12 @@ Video Room Monitor
 see screenshot
 Room SID: RM3cf57a4f6b93c73b6f88f1a7f003f3a3
 
+Room Monitor - Stats
+See Screenshot
+Room SID: RM4c8da96c7e306ce260529065846082ac
+
 Screensharing
 See screenshots
 Room SID: RM4c8da96c7e306ce260529065846082ac
+
+
