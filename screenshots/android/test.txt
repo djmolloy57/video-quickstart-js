@@ -1,1 +1,13 @@
+Android App 
+See screenshots
+Mac joined on : https://video-app-5213-1287-dev.twil.io?passcode=54923152131287
+Enter name as : Dermot
+Enter room name as: testroom2
 
+Android Emulator phone on app entered
+Enter name as: mark
+Passcode: 54923152131287
+Entered room as: testroom2
+
+Room Name: testroom2
+SID: RM0b88f11121cba080d4c37f8c971da3e2
