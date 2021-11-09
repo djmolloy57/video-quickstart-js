@@ -19,4 +19,7 @@ Screensharing
 See screenshots
 Room SID: RM4c8da96c7e306ce260529065846082ac
 
+Voice call joining Video session
+See screenshot
+Room SID: RM5fb9baa8960d2edeaefc6693e9e2dcc6
 
