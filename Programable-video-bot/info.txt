@@ -1,4 +1,8 @@
 looking at an example React-app Room SID:  Room SID: RM3cf57a4f6b93c73b6f88f1a7f003f3a3
 
-Room summary report
-Please see the screenshot
+Room summary report for RM3cf57a4f6b93c73b6f88f1a7f003f3a3
+Please see the screenshot for this room sid room summary
+
+Participant report
+Room RM3cf57a4f6b93c73b6f88f1a7f003f3a3 contains participant PA12f4a1aeaebd157c6f332c1f5efdb03b 
+Please see the screenshot participant report for this particular participant
