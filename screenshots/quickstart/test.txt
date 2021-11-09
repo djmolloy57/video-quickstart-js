@@ -26,6 +26,9 @@ Room SID: RM2eb55d71a4119366a47eee63d421b92d
 Preferred Audio Codec: OPUS
 Preferred Video Codec: VP8
 Room SID: RM2eb55d71a4119366a47eee63d421b92d
+Preferred Audio Codec: PCMA
+Preferred Video Codec: VP9
+Room SID: RM2eb55d71a4119366a47eee63d421b92d
 
 Network Quality:
 Network quality: 0
