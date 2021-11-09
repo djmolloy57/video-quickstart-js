@@ -62,3 +62,11 @@ Example Screen
 Remote djm screen
 Room Sid: RM355a58da98b87d5e68f1760be6d4869f
 
+Reconnection:
+See Screenshots
+Created Room Sid: RMab30a4d675b290b8187c4b4011de0814
+Disconnected the my cat cable 
+changed to Reconnecting and then to  state Disconnected. - see screenshots
+Plugged back in my cat cable - checked in a different browser tab confirmed it was connecting to internet.
+I went back in Example Reconnection - It never returned to Connect state.
+I had to refresh the page and create a new room : RM21d7faf876720ec4fe8194dad48779fb
