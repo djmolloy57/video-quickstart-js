@@ -22,6 +22,7 @@ Browser: field:  publisher_metadata.browser_name
 browser version; field: publisher_metadata.browser_version  
 Can see: field: publisher_metadata_user_agent  
 (SDK version information for the participants:  field: publisher_metadata.sdk_version
+url: https://kibana.us1.eak.twilio.com/video/goto/92c62a857c0821562b0fb9684646d452
 Please see screenshot kibana_query2 and kibana_query2_mac
 
 Query4:
@@ -39,5 +40,5 @@ Please see attached screenshot - kibana_query4
 Query 6:
 Create visualization for the Network Quality Scores
 Room SID: RM3cf57a4f6b93c73b6f88f1a7f003f3a3
-https://kibana.us1.eak.twilio.com/video/goto/6c21224bca38ac300c34a621fa390e81
+url: https://kibana.us1.eak.twilio.com/video/goto/6c21224bca38ac300c34a621fa390e81
 Please see screenshot - kibana-query6
