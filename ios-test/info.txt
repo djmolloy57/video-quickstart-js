@@ -6,11 +6,13 @@ I joined on my My Mac with the web app url which contained the Passcode and had 
  
 Video-bot room snippet below:
 
-Summary for Room: testroom | RMf2d41a305367863760de3e4df5d8978c | AC8c27b959ff60124e8fa5f2ad6159f747
-Topology: group | Adhoc: False | TURN: True | Recording on Connect: True | Video Codecs: H264,VP8 | Media Region: us1 | Audio Only: False
-VMS: VM1e2439a18494d9a1996bbc65b97dcb7e
-Participants:
-P1: PAc3c9a68490015075842d45928fd621f1 | CAb66b03839217d4f2dcf34f2c6c6d6094 | dermot | unified | jsdk 2.17.1 | Chrome 95.0.4638 
-P2: PAda275579fe9b5864890523826025093f | CAde999d260ef973ea8322a80fe0bedefb | Mark | unified | ios 4.6.2 / 13.7 
+Room SID: RMaec75d926b831bbed97b67f82693e492
 
+Summary for Room: testroom | RMaec75d926b831bbed97b67f82693e492 | AC8c27b959ff60124e8fa5f2ad6159f747
+Topology: group | Adhoc: False | TURN: True | Recording on Connect: True | Video Codecs: H264,VP8 | Media Region: us1 | Audio Only: False
+VMS: VM78c3e1fe268eea417a632347e391734d
+Participants:
+P1: PA9bbf7d46aa6e2587357fe166400ec306 | CAe0a7aededc1ab35f57e8d97ae8c36fa4 | dermot | unified | jsdk 2.17.1 | Chrome 95.0.4638 
+P2: PAd111a9fec09f082f55ab6ea7b120792f | CA013289c14ee466eb8284376058d287cb | Mark | unified | ios 4.6.2 / 13.7
+ 
 Please see screenshot of Mac-video-screen and iPhone-7-video-screen.
