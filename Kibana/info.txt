@@ -35,6 +35,7 @@ Call SID - Fields:  payload.call_sid
 Room SID - Fields: payload.room_sid
 Identity - Fields:   payload.identity
 Room Name for the PSTN participant in one room:  name
+url: https://kibana.us1.eak.twilio.com/video/goto/44460d31e87788024a30cb6061111d55
 Please see attached screenshot - kibana_query4
 
 Query 6:
