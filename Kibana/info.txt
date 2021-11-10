@@ -9,6 +9,7 @@ Fields for vms server sid = field:  payload.vms_sid
 Fileds for media region = field: payload.media_region
 Fields for codecs =  payload.video_codecs
 Whether the participant was "recorded on connect" for all of the participants in one of your group rooms - field: payload.record_participants_on_connect  (true/false)
+url: https://kibana.us1.eak.twilio.com/video/goto/2fd147eceea898c7b66ea4e9ecdd5963
 Please see screenshot kibana_query1
 
 Query2:
