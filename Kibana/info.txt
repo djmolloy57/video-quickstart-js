@@ -34,3 +34,9 @@ Room SID - Fields: payload.room_sid
 Identity - Fields:   payload.identity
 Room Name for the PSTN participant in one room:  name
 Please see attached screenshot - kibana_query4
+
+Query 6:
+Create visualization for the Network Quality Scores
+Room SID: RM3cf57a4f6b93c73b6f88f1a7f003f3a3
+https://kibana.us1.eak.twilio.com/video/goto/6c21224bca38ac300c34a621fa390e81
+Please see screenshot
