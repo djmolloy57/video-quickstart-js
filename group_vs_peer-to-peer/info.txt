@@ -1,1 +1,48 @@
+Account SID: AC8c27b959ff60124e8fa5f2ad6159f747
+GROUP:
+Group with added one PSTN participant to a room
+Room SID: RM5fb9baa8960d2edeaefc6693e9e2dcc6
+Group session:
+Unique Name: testmeeting1
+Room SID: RM5fb9baa8960d2edeaefc6693e9e2dcc6
+Date Created: 10:59:08 UTC 2021-11-08
+Date Completed: 11:11:20 UTC 2021-11-08
+Duration: 17 min 12 sec
+Type: Group
+Media Region: us1
+Total recording duration: 00:14:14
+
+Participants:
+dm1voice
+PAeeba78ad56de711a90015be25ad39698
+dm1voice
+PA430cca47a887ab380e4a776a007ac971
+dermot
+PAf32f98081337c9f4001bf4873dbfb6d3
+
+PEER-TO-PEER:
+Create one Peer-to-Peer room.  
+P2P session:
+Unique Name: P2PAnotherMDJM
+Room SID: RM034d88108bd28e9368660c3321d14649
+Date Created: 14:34:30 UTC 2021-11-09
+Date Completed: 14:39:08 UTC 2021-11-09
+Duration: 9 min 48 sec
+Type: Peer-to-peer
+Media Region: -
+Total Recording Duration: -
+
+Participants:
+larry
+PA8dab47f97bbedea240514664ba6d5d82
+djm
+PAd15b5d64e62bf8c936af53b2cd44cc69
+
+
+Obseveration on Peer-to-peer and Group Room:
+There is no video recording log for the P2P session as this feature is only available for Group rooms.
+Max-allowed for Peer-to-peer : 10
+Max-allowed for Group: 50
+Media Region is only relevant to Group Rooms
+You can only add a voice PSTN participant to Group Rooms
 
