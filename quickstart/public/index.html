@@ -29,10 +29,26 @@
         <div id="participants" class="col-xs-12 col-sm-3 col-md-2" style="text-align: center"></div>
         <div id="active-participant" class="col-xs-12 col-sm-9 col-md-10" style="text-align: center">
           <div class="participant main">
-            <video autoplay playsinline muted></video>
+            <!-- <video autoplay playsinline muted></video> -->
+            <video id="videoinputfiltered" autoplay playsinline muted></video>
           </div>
         </div>
       </div>
+
+      <!-- Ammendment Local Video Filter - Blur, greyscaling etc  -->
+      <div class="card">
+          <div class="card-block">
+            <h4 class="card-title">Local Video (raw)</h4>
+            <video id="videoinputpreview" autoplay></video>
+            <select id="filter" class="form-control">
+              <option value="none" selected>No filter</option>
+              <option value="blur">Blur</option>
+              <option value="grayscale">Grayscale</option>
+              <option value="sepia">Sepia</option>
+            </select>
+          </div>
+      </div>
+      <!-- end of the Local Video Filter ammendment   -->
 
       <!-- Ammendment adding screensharing!   -->
      <div class="card">

@@ -202,7 +202,7 @@ const remoteScreenPreview = document.querySelector('video.remote-screenpreview')
   captureScreen.onclick = async function() {
     try {
 
-      alert('YOU HAVE CLICKED ME!!');
+      //alert('YOU HAVE CLICKED ME!!');
       // Create and preview your local screen.
       screenTrack = await createScreenTrack(720, 1280);
       screenTrack.attach(screenPreview);
@@ -252,7 +252,7 @@ const remoteScreenPreview = document.querySelector('video.remote-screenpreview')
       roomRemote = null;
     }
   };
-  alter('Where do I show?');
+  //alter('Where do I show?');
 }());
 
 function toggleButtons() {
@@ -327,7 +327,7 @@ displayLocalVideo(video).then(function(localVideoTrack) {
   videoTrack = localVideoTrack;
   takeSnapshot.onclick = function() {
 
-    alert('YOU HAVE CLICKED SCREEN CAPTURE!!');
+    //alert('YOU HAVE CLICKED SCREEN CAPTURE!!');
     setSnapshotSizeToVideo(el, localVideoTrack);
     takeLocalVideoSnapshot(video, localVideoTrack, el);
   };
@@ -338,5 +338,37 @@ window.onresize = function() {
   setSnapshotSizeToVideo(el, videoTrack);
 };
 /*End of the above section on local video snapshot */
+
+/* the code below handles local video filter (blurring, greyscalling etc) which is from the example local video filter src index.js - it calling helper file helpers-localvideofilter and helpers-video-processor.js */
+var filter_helpers = typeof OffscreenCanvas === 'undefined'
+  ? require('./helpers-localvideofilter')
+  : require('./helpers-video-processor');
+
+var displayLocalVideo = filter_helpers.displayLocalVideo;
+var filterLocalVideo = filter_helpers.filterLocalVideo;
+
+var selectFilter = document.querySelector('select#filter');
+var video = document.querySelector('video#videoinputpreview');
+var filtered = document.querySelector('video#videoinputfiltered');
+
+// Load the code snippet.
+getSnippet(
+  typeof OffscreenCanvas === 'undefined'
+    ? './helpers.js'
+    : './helpers-video-processor.js'
+).then(function(snippet) {
+  var pre = document.querySelector('pre.language-javascript');
+  pre.innerHTML = Prism.highlight(snippet, Prism.languages.javascript);
+});
+
+// Request the default LocalVideoTrack and display it.
+displayLocalVideo(video).then(function() {
+  // Apply the selected filter to the local video.
+  filterLocalVideo(video, filtered, selectFilter.value);
+  selectFilter.onchange = function() {
+    filterLocalVideo(video, filtered, selectFilter.value);
+  };
+});
+/* end of local video filter */
 
 
